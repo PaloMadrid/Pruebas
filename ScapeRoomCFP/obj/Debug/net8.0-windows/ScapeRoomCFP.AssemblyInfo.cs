@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ScapeRoomCFP")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ab5ba558744fe052408245546ed2a3fa64c3079f")]
 [assembly: System.Reflection.AssemblyProductAttribute("ScapeRoomCFP")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ScapeRoomCFP")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
