@@ -1,9 +1,25 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Mauro\\Downloads\\SALA-ESCAPE-CFP-2025-main\\",
+  "WorkspaceRootPath": "C:\\Users\\Mauro\\Desktop\\Pruebas\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C39A839A-B3B2-43BA-A61C-CF532B2479B2}|ScapeRoomCFP\\ScapeRoomCFP.csproj|c:\\users\\mauro\\downloads\\sala-escape-cfp-2025-main\\scaperoomcfp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{BFDF3DDC-D76E-4FB6-8AB0-78F884068A34}|Desafio2\\Desafio2.csproj|c:\\users\\mauro\\desktop\\pruebas\\desafio2\\desafio2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFDF3DDC-D76E-4FB6-8AB0-78F884068A34}|Desafio2\\Desafio2.csproj|solutionrelative:desafio2\\desafio2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C39A839A-B3B2-43BA-A61C-CF532B2479B2}|ScapeRoomCFP\\ScapeRoomCFP.csproj|c:\\users\\mauro\\desktop\\pruebas\\scaperoomcfp\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C39A839A-B3B2-43BA-A61C-CF532B2479B2}|ScapeRoomCFP\\ScapeRoomCFP.csproj|solutionrelative:scaperoomcfp\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C39A839A-B3B2-43BA-A61C-CF532B2479B2}|ScapeRoomCFP\\ScapeRoomCFP.csproj|C:\\Users\\Mauro\\Desktop\\Pruebas\\scaperoomcfp\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C39A839A-B3B2-43BA-A61C-CF532B2479B2}|ScapeRoomCFP\\ScapeRoomCFP.csproj|solutionrelative:scaperoomcfp\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C39A839A-B3B2-43BA-A61C-CF532B2479B2}|ScapeRoomCFP\\ScapeRoomCFP.csproj|c:\\users\\mauro\\desktop\\pruebas\\scaperoomcfp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C39A839A-B3B2-43BA-A61C-CF532B2479B2}|ScapeRoomCFP\\ScapeRoomCFP.csproj|solutionrelative:scaperoomcfp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C39A839A-B3B2-43BA-A61C-CF532B2479B2}|ScapeRoomCFP\\ScapeRoomCFP.csproj|c:\\users\\mauro\\desktop\\pruebas\\scaperoomcfp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C39A839A-B3B2-43BA-A61C-CF532B2479B2}|ScapeRoomCFP\\ScapeRoomCFP.csproj|solutionrelative:scaperoomcfp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -19,15 +35,63 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Desafio2.cs",
+              "DocumentMoniker": "C:\\Users\\Mauro\\Desktop\\Pruebas\\Desafio2\\Desafio2.cs",
+              "RelativeDocumentMoniker": "Desafio2\\Desafio2.cs",
+              "ToolTip": "C:\\Users\\Mauro\\Desktop\\Pruebas\\Desafio2\\Desafio2.cs",
+              "RelativeToolTip": "Desafio2\\Desafio2.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T18:22:41.521Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Mauro\\Desktop\\Pruebas\\ScapeRoomCFP\\Program.cs",
+              "RelativeDocumentMoniker": "ScapeRoomCFP\\Program.cs",
+              "ToolTip": "C:\\Users\\Mauro\\Desktop\\Pruebas\\ScapeRoomCFP\\Program.cs",
+              "RelativeToolTip": "ScapeRoomCFP\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T18:03:16.287Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form2.cs",
+              "DocumentMoniker": "C:\\Users\\Mauro\\Desktop\\Pruebas\\ScapeRoomCFP\\Form2.cs",
+              "RelativeDocumentMoniker": "ScapeRoomCFP\\Form2.cs",
+              "ToolTip": "C:\\Users\\Mauro\\Desktop\\Pruebas\\ScapeRoomCFP\\Form2.cs",
+              "RelativeToolTip": "ScapeRoomCFP\\Form2.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T17:51:28.132Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form2.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Mauro\\Desktop\\Pruebas\\ScapeRoomCFP\\Form2.cs",
+              "RelativeDocumentMoniker": "ScapeRoomCFP\\Form2.cs",
+              "ToolTip": "C:\\Users\\Mauro\\Desktop\\Pruebas\\ScapeRoomCFP\\Form2.cs [Dise\u00F1o]",
+              "RelativeToolTip": "ScapeRoomCFP\\Form2.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T17:50:59.182Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "Form1.cs",
-              "DocumentMoniker": "C:\\Users\\Mauro\\Downloads\\SALA-ESCAPE-CFP-2025-main\\ScapeRoomCFP\\Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Mauro\\Desktop\\Pruebas\\ScapeRoomCFP\\Form1.cs",
               "RelativeDocumentMoniker": "ScapeRoomCFP\\Form1.cs",
-              "ToolTip": "C:\\Users\\Mauro\\Downloads\\SALA-ESCAPE-CFP-2025-main\\ScapeRoomCFP\\Form1.cs",
+              "ToolTip": "C:\\Users\\Mauro\\Desktop\\Pruebas\\ScapeRoomCFP\\Form1.cs",
               "RelativeToolTip": "ScapeRoomCFP\\Form1.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-10T17:26:15.236Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-10T17:26:15.236Z"
             }
           ]
         }

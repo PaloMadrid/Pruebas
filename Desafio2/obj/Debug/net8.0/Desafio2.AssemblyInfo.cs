@@ -11,15 +11,13 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("ScapeRoomCFP")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("Desafio2")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2ab937048cbcb0fd993d7bf48e8bd45f61f94e88")]
-[assembly: System.Reflection.AssemblyProductAttribute("ScapeRoomCFP")]
-[assembly: System.Reflection.AssemblyTitleAttribute("ScapeRoomCFP")]
+[assembly: System.Reflection.AssemblyProductAttribute("Desafio2")]
+[assembly: System.Reflection.AssemblyTitleAttribute("Desafio2")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
-[assembly: System.Runtime.Versioning.TargetPlatformAttribute("Windows7.0")]
-[assembly: System.Runtime.Versioning.SupportedOSPlatformAttribute("Windows7.0")]
 
 // Generado por la clase WriteCodeFragment de MSBuild.
 
